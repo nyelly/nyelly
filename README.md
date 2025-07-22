@@ -9,6 +9,7 @@
 - 💻 Técnico em Informática, com experiência prática em suporte técnico e desenvolvimento
 - 📚 Conhecimentos em:
   - C# (desenvolvimento de APIs RESTful e aplicações desktop)
+  - Java (programação orientada a objetos e desenvolvimento de aplicações com foco em boas práticas)
   - Python (automação e lógica de programação)
   - MySQL (modelagem e gerenciamento de bancos de dados)
   - JavaScript (programação front-end e back-end)
@@ -37,6 +38,14 @@ Sempre buscando crescer profissionalmente e colaborar em projetos que impactem p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Jav"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 <img 
     align="left" 
